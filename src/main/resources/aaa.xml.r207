@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<teachers>
+	<teacher id="10">
+		<name>du</name>
+		<sex>male</sex>
+	</teacher>
+	<teacher>
+		<name id="100">zhang</name>
+		<sex>male</sex>
+	</teacher>
+	<teacher>
+		<name id="100">zhang</name>
+	</teacher>
+</teachers>
